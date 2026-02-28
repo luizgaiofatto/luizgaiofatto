@@ -31,7 +31,7 @@ Tecnologias:
 + CSS
 + JavaScript
 
-👉 Ver projeto
+👉 [Ver projeto](https://github.com/luizgaiofatto/projeto_calculadora)
 
 🔹 Portfólio Pessoal
 
@@ -42,7 +42,7 @@ Tecnologias:
 + HTML
 + CSS
 
-👉 Ver repositório
+👉 [Ver repositório](https://github.com/luizgaiofatto/gaiofatto.dev)
 
 ## Objetivo
 
