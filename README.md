@@ -41,6 +41,7 @@ Tecnologias:
 
 + HTML
 + CSS
++ JavaScript
 
 👉 [Ver repositório](https://github.com/luizgaiofatto/gaiofatto.dev)
 
